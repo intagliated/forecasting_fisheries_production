@@ -3,7 +3,7 @@
 #### 📌 Project Overview
 This project analyzes **Marine Fish Production** (in tonnes) in Kerala using data collected from:
 - 🐟 **CMFRI, Kochi** – Marine fish production data  
-- 🌍 **ICOADS** – 9 significant environmental variables  
+- 🌍 **ICOADS** – Environmental variables  
 
 The dataset spans **55 years (1960 - 2014)**, providing valuable insights into how environmental factors influence marine fish production.
 
