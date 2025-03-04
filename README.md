@@ -7,18 +7,18 @@ This project analyzes **Marine Fish Production** (in tonnes) in Kerala using dat
 
 ---
 
-##### 📊 Data Sources
+##### Data Sources
 - **Marine Fish Production Data**: [CMFRI, Kochi](https://www.cmfri.org.in/)  
 - **Environmental Variables**: [ICOADS](https://icoads.noaa.gov/)  
 
 ---
 
-##### 📂 Project Files
+#####  Project Files
 🔹 **[📄Link ](https://bit.ly/fisheries_production_forecasting_project)**  
 
 ---
 <!--
-## ⚙️ Methodology
+##  Methodology
 1. **Data Collection** 📥 – Compiled data from CMFRI & ICOADS  
 2. **Data Preprocessing** 🛠 – Cleaning & normalization  
 3. **Statistical Analysis** 📊 – Trends & correlations  
