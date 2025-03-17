@@ -2,8 +2,8 @@
 
 ####  Project Overview
 This project analyzes **Marine Fish Production** (in tonnes) in Kerala using data collected from:
-- 🐟 **CMFRI, Kochi** – Marine fish production data  
-- 🌍 **ICOADS** – Environmental variables  
+- **CMFRI, Kochi** – Marine fish production data  
+- **ICOADS** – Environmental variables  
 
 ---
 
