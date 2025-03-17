@@ -21,7 +21,7 @@ Data on Marine Fish production in Kerala (in tonnes) was collected from **CMFRI,
 Despite Kerala's **strong presence** in India's fisheries sector, **no prior research** has leveraged **machine learning models** for forecasting marine fish production in Kerala. Our study aims to bridge this gap, applying  Machine Learning Methods to **improve accuracy and decision-making** in the fisheries sector.  
  
 
-**Machine Learning Models Used** : Multiple Linear Regression, Multilayer Perceptron, Radial Basis Function, Random Forest
+**Machine Learning Models** - Multiple Linear Regression, Multilayer Perceptron, Radial Basis Function, Random Forest were used to predict the fish production in Kerala and the following results were obtained.
 
 ![Results](Results.png)
 
