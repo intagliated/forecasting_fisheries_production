@@ -1,10 +1,6 @@
 ### Forecasting Marine Fish Production in Kerala
 
 ####  Project Overview
-This project analyzes **Marine Fish Production** (in tonnes) in Kerala using data collected from:
-- **CMFRI, Kochi** – Marine fish production data  
-- **ICOADS** – Environmental variables  
-
 ---
 
 ##### Data Sources
