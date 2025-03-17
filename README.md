@@ -12,17 +12,18 @@ Traditionally, **time series forecasting** relied on **linear methods** due to t
 ####  Data Used
 
 Data on Marine Fish production in Kerala (in tonnes) was collected from **CMFRI, Kochi**  and  data  on 
-9 significant environmental variables  from **ICOADS**  from 1960 – 2014 which after preprocessing was used to train the models.
+9 significant environmental variables  from **ICOADS** .
 
 ![Sample Data-Set](sample_data.png)
 
-##### Significance of Our Study  
+#### Significance of Our Study  
 
 Despite Kerala's **strong presence** in India's fisheries sector, **no prior research** has leveraged **machine learning models** for forecasting marine fish production in Kerala. Our study aims to bridge this gap, applying  Machine Learning Methods to **improve accuracy and decision-making** in the fisheries sector.  
  
 
 **Machine Learning Models Used** : Multiple Linear Regression, Multilayer Perceptron, Radial Basis Function, Random Forest
 
+![Results](Results.png)
 
 
 Execution Videos and Report can be accessed [here](https://bit.ly/fisheries_production_forecasting_project)
